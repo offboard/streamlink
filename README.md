@@ -26,7 +26,8 @@ sudo pip install streamlink
 
 ```bash
 git clone https://github.com/streamlink/streamlink
-sudo python setup.py install
+cd streamlink
+sudo python streamlink/setup.py install
 ```
 
 #### Windows, MacOS, Linux and BSD specific installation methods
